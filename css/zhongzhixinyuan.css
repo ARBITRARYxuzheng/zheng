@@ -1,0 +1,154 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.header{
+	height: 173px;
+	background-color:#eeeeef;
+}
+.logo{
+	text-align: center;
+	height: 125px;
+}
+.logo img{
+	margin-top: 30px;
+}
+.nav{
+	width: 670px;
+	height: 45px;
+	background-color:#fff;
+	margin: 0 auto;
+	border-radius: 22.5px;
+}
+.nav li{
+	float: left;
+	height: 45px;
+	padding: 0 30px;
+	line-height: 45px;
+	background:url(../pictures/line.png) no-repeat right center;
+}
+.nav li a{
+	display: block;
+	height: 42px;
+	border-bottom: 3px solid #1e50ae;
+	font-size: 14px;
+	font-family: 微软雅黑；
+}
+.nav li:last-child{
+	background:none;
+}
+.banner{
+	width:100%;
+	height:405px;
+	background: url(../pictures/fuwu.png) no-repeat center center;
+}
+.serve{
+	width: 1200px;
+	height: 620px;
+	margin: 0 auto;
+}
+
+
+.first{
+	margin-top: 0px;
+	margin-bottom: 25px;
+	font-size: 34px;
+	color: rgb(51,51,51);
+	text-align: center;
+
+}
+.second{
+	margin-bottom: 60px;
+	font-size: 31.45px;
+	color: rgb(51,51,51);
+	text-align: center;
+}
+.a1{
+    
+    height: 380px;
+    width: 300px;
+    float: left;
+    background: url(../pictures/a.png) no-repeat center center;
+}
+.a2{
+    
+    height: 380px;
+    width: 300px;
+    float: left;
+    background: url(../pictures/b.png) no-repeat center center;
+}
+.a3{
+    width: 300px;
+    height: 380px;
+    
+    float: left;
+    background: url(../pictures/c.png) no-repeat center center;
+}
+.a4{
+    width: 300px;
+    height: 380px;
+    
+    float: left;
+    background: url(../pictures/d.png) no-repeat center center;
+}
+.a5{width: 300px;
+    height:150px;
+    
+    float: left;
+    background: url(../pictures/e.png) no-repeat center center;
+
+}
+.a6{
+	width: 300px;
+    height: 150px;
+    
+    float: left;
+    background: url(../pictures/f.png) no-repeat center center;
+}
+.a7{
+	width: 300px;
+    height: 150px;
+   
+    float: left;
+    background: url(../pictures/g.png) no-repeat center center;
+}
+.a8{
+	width: 300px;
+    height: 150px;
+    
+    float: left;
+    background: url(../pictures/h.png) no-repeat center center;
+}
+a1 ul li{
+    color: rgb(200,200,200);
+    margin-top: 15px;
+}
+.B{
+    height: 121px;
+    width: 79px;
+}
+.b1{
+    font-size:15px;
+    margin:15px auto;
+}
+.jiejue{
+	width: 1560px;
+	height: 718px;
+	background: url(pictures/lanse.png) no-repeat center center;
+}
+.diyi{
+	width: 1560px;
+	height: 993px;
+	background:url(pictures/123.png) no-repeat center center;
+}
+.{
+	width: 1560px;
+	height: 384px;
+	background: url(pictures/2.png) no-repeat center center;
+}
